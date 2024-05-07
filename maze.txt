@@ -1,1 +1,20 @@
-hello world
+Amazing Maze Project Documentation
+
+Youtube link: https://www.youtube.com/watch?v=Nb9F6BK_W34
+
+First, select which character you want to use and hit the start button.
+Use the joystick to move your character around the maze.
+If you find a portal, click the button to jump to a different part of the maze.
+Work your way to the treasure, then click the button again to move to the next level.
+Once you complete all levels, click the space bar to play again.
+
+Input: The joystick is used to move the character and the button is used to interact with portals and treasure.
+Output: Three LEDs show which level you are on and the RGB LED turns different colors so you know what portal pair your on.
+
+Future Development Ideas
+
+More levels could be added.
+A transistion screen between levels.
+Different music for each level.
+More characters to choose from.
+A timer so you can compete with yourself and others.
