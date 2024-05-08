@@ -9,9 +9,9 @@ Work your way to the treasure, then click the button again to move to the next l
 Once you complete all levels, click the space bar to play again.
 
 Input: The joystick is used to move the character and the button is used to interact with portals and treasure.
-Output: Three LEDs show which level you are on and the RGB LED turns different colors so you know what portal pair your on.
+Output: Three LEDs show which level you are on and the RGB LED turns different colors so you know what portal pair you are on.
 
-Future Development Ideas
+Future Development Ideas:
 
 More levels could be added.
 A transistion screen between levels.
