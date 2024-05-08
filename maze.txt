@@ -13,8 +13,8 @@ Output: Three LEDs show which level you are on and the RGB LED turns different c
 
 Future Development Ideas:
 
-More levels could be added.
-A transistion screen between levels.
-Different music for each level.
-More characters to choose from.
-A timer so you can compete with yourself and others.
+ - More levels could be added.
+ - A transistion screen between levels.
+ - Different music for each level.
+ - More characters to choose from.
+ - A timer so you can compete with yourself and others.
